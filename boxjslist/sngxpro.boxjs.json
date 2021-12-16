@@ -22,6 +22,16 @@
     "repo": "https://github.com/leafxcy/JavaScript",
     "icons": ["https://avatars.githubusercontent.com/u/20602757?v=4", "https://avatars.githubusercontent.com/u/20602757?v=4"],
     "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js"
-    }         
+    }, 
+     {
+    "id": "燃旅视频",
+    "name": "燃旅视频",
+    "keys": ["soy_rlsp_data"],
+    "author": "@soy",
+    "repo": "https://gitee.com/soy-tool/app-script",
+    "icons": ["https://avatars.githubusercontent.com/u/20602757?v=4", "https://avatars.githubusercontent.com/u/20602757?v=4"],
+    "script": "https://gitee.com/soy-tool/app-script/raw/master/app_rlsp.js"
+    }        
+    
  ]
 }
